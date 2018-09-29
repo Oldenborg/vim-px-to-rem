@@ -8,6 +8,11 @@ Installation
 1. Navigate to your **[VIM_ROOT]/bundle** directory in your local Vim setup
 2. git clone https://github.com/Oldenborg/vim-px-to-rem.git
 
+### Vundle Install'
+Add the following to your `.vimrc` file in the vundle plugin section
+```
+Plugin 'Oldenborg/vim-px-to-rem'
+```
 
 Usage
 -------------------------
